@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 /// i18n/l10n constants
 FOUNDATION_EXPORT NSString * const HarpyLanguageBasque;
